@@ -8,8 +8,6 @@ Introduction to graphs in python
 + [032_Visualizations_networkx](1_Intro/032_Visualizations_networkx.ipynb)
 
 ## 2. Analysis
-+ [021_Network_connectivity](2_Analysis/021_Network_connectivity.ipynb)
-
 ## 3. Trees
 ## 4. Algorithms
 ## 5. Use Cases
